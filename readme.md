@@ -125,3 +125,8 @@ https://uiverse.io/kirzin/selfish-kangaroo-64
 https://www.w3schools.com/howto/howto_css_shake_image.asp
 <br>
 https://stackoverflow.com/questions/6410730/css-endless-rotation-animation
+
+## Deployment Link
+
+<br>
+https://domeldmanangan.github.io/WD-S3-Manangan/index.html
