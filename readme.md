@@ -47,10 +47,6 @@
     </li>
     <li>
       <a href="#resources">Resources</a>
-      <p>https://www.w3schools.com/howto/howto_css_glowing_text.asp</p>
-      <p>https://uiverse.io/kirzin/selfish-kangaroo-64</p>
-      <p>https://www.w3schools.com/howto/howto_css_shake_image.asp</p>
-      <p>https://stackoverflow.com/questions/6410730 css-endless-rotation-animation</p>
     </li>
   </ol>
 </details>
