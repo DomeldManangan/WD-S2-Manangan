@@ -9,11 +9,11 @@
     <img src="./assets/img/LegenX Logo.png" alt="LegenX" width="auto">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">WD-S3-Manangan</h3>
+  <h3 align="center">Seatwork 3</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Seatwrok 3 about Header and Footer.
+  The landing page, header page, and footer page of the multi-page website project each have their own purposes. A compelling call-to-action, interesting information, and a unified theme make the landing page captivating for visitors. The header, which includes a navigation bar, a logo, and important links, guarantees consistent branding and navigation. In a simple structure, the footer offers contact information, a site map, legal information, and subscription options. Furthermore, the header and footer galleries' static designs improve usability and aesthetic appeal without requiring animation.
 </div>
 
 <br />
@@ -61,17 +61,14 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
-  <br>
-  Seatwork 3, About Header and Footer
+    - Multi paged project consists of landing page, the header page, the footer page. Which is 5 Static designs and 5 animated designs for header and footer galleries.
 - Whats the purpose
-  <br>
-  To learn deeper about HTML and CSS
+  - To test our knowledge and ideas in HTML & CSS
 - What are key components
-  <br>
-- Hover Effect,Active Effect, Multi Layer Domino Effect, Not Effect
+  - MultiPage Website
+  - Animated Design
 - What technology used and how it is used
-  <br>
-  - HTML and CSS
+  - HTML & CSS with animations and linkages between other sites.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -79,7 +76,8 @@ Guiding Question:
 - Hover Effect
 - Active Effect
 - Multi Layer Domino Effect
-- Not Effect
+- MultiPage Website
+- Animated design
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -120,14 +118,12 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Glow Effect | To add glowing effect to text | (https://www.w3schools.com/howto/howto_css_glowing_text.asp) |
-
 | Button | Design for button when hovered | (https://uiverse.io/kirzin/selfish-kangaroo-64) |
-
 | Shake Effect | Shake effect when hovered to a button | (https://www.w3schools.com/howto/howto_css_shake_image.asp) |
-
 | Rotate Effect | To add a rotating effect to the logo | https://stackoverflow.com/questions/6410730/css-endless-rotation-animation |
-
 | Pinterest | Images in headers and footers | https://ph.pinterest.com/ |
+| Ian Ramirez | Template | https://github.com/zyx-0314 |
+| W3Shools | HTML & CSS | https://www.w3schools.com |
 
 ## Deployment Link
 
