@@ -117,11 +117,11 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Glow Effect | To add glowing effect to text | (https://www.w3schools.com/howto/howto_css_glowing_text.asp) |
-| Button | Design for button when hovered | (https://uiverse.io/kirzin/selfish-kangaroo-64) |
-| Shake Effect | Shake effect when hovered to a button | (https://www.w3schools.com/howto/howto_css_shake_image.asp) |
+| Glow Effect | To add glowing effect to text | https://www.w3schools.com/howto/howto_css_glowing_text.asp |
+| Button | Design for button when hovered | https://uiverse.io/kirzin/selfish-kangaroo-64 |
+| Shake Effect | Shake effect when hovered to a button | https://www.w3schools.com/howto/howto_css_shake_image.asp |
 | Rotate Effect | To add a rotating effect to the logo | https://stackoverflow.com/questions/6410730/css-endless-rotation-animation |
-| Pinterest | Images in headers and footers | https://ph.pinterest.com/ |
+| Pinterest | Images in headers and footers | https://ph.pinterest.com |
 | Ian Ramirez | Template | https://github.com/zyx-0314 |
 | W3Shools | HTML & CSS | https://www.w3schools.com |
 
