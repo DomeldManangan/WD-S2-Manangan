@@ -48,6 +48,9 @@
     <li>
       <a href="#resources">Resources</a>
     </li>
+        <li>
+      <a href="#Deployment Link">Deployment Link</a>
+    </li>
   </ol>
 </details>
 
@@ -124,6 +127,7 @@ WD-ProjectName
 | Pinterest | Images in headers,footers and logo | https://ph.pinterest.com |
 | Ian Ramirez | Template | https://github.com/zyx-0314 |
 | W3Shools | HTML & CSS | https://www.w3schools.com |
+| Bootstrap | Icons | https://getbootstrap.com |
 
 ## Deployment Link
 
